@@ -2,7 +2,7 @@
 
 Submitted by: **Y Banh**
 
-**Wordle** is an app that players guess a secret five-letter word within six attempts. After each guess, the game provides feedback on correct letters and positions. 
+**Wordle** is an app where players guess a secret five-letter word within six attempts. After each guess, the game provides feedback on correct letters and positions. 
 
 Time spent: **6** hours spent in total
 
@@ -17,19 +17,17 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [x] Improve and customize the user interface by adding a launch screen and app icon
-- [ ] Run the app on a device rather than in the simulator
+- [x] Run the app on a device rather than in the simulator
 
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://www.loom.com/share/c38ba88542db4863bd553e99b622a5f9?sid=f89bf2ec-49fc-4053-82cd-ed88e240b3c7
 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I found the starter project code quite overwhelming, and it was difficult to navigate through the exercise. The code in each exercise was relatively easy once you got the hang of it. Fortunately, I was quite familiar with the coding concept, but I was still struggling with writing the right syntax and reading through Apple's document.
 
 ## License
 
