@@ -27,7 +27,7 @@ https://www.loom.com/share/c38ba88542db4863bd553e99b622a5f9?sid=f89bf2ec-49fc-40
 
 ## Notes
 
-I found the starter project code quite overwhelming, and it was difficult to navigate through the exercise. The code in each exercise was relatively easy once you got the hang of it. Fortunately, I was quite familiar with the coding concept, but I was still struggling with writing the right syntax and reading through Apple's document.
+I found the starter project code quite overwhelming, and it was difficult to navigate through the exercise. However, the code in each exercise was relatively easy once you got the hang of it. Fortunately, I was quite familiar with the coding concept, but I was still struggling with writing the right syntax and reading through Apple's document.
 
 ## License
 
